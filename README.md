@@ -15,6 +15,8 @@
 <li>How to explore variables to identify the most important variables and relationships within a data set before building predictive models; calculate correlations, and investigate conditional means</li>
 <li>Powerful methods and visualizations for examining relationships among multiple variables, such as reshaping data frames and using aesthetics like color and shape to uncover more information</li>
 <br>
+
+<h2>Output:</h2>
 <p>To view the output, please copy & past the following URL in github html preview site. </p>
 
 1) Copy https://github.com/asriyazudeen/Red-Wine-Analysis---EDA/blob/master/RedWine_Analysis_Riyazudeen.html
